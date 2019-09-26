@@ -16,7 +16,7 @@ import static org.junit.Assert.*;
 public class BoxersTest {
     private ChromeDriver driver;
 
-    private String webLocation = "file:///C:/Users/Admin/Desktop/boxing/boxers.html";
+    private String webLocation = "http://35.246.122.192/boxers.html";
 
     @Before
     public void setUp() {
